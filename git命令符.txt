@@ -52,6 +52,7 @@
 	git commit -m "xxx"提交文件写注释  （$ git commit /f/gitRemot/remotdiv/test2.txt -m "commit"）
 	git status 查看当前状态 
 	git diff fileName 查看当前工作空间与本地库对比
+(5) 未完
 
 
 	
